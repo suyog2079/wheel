@@ -1,0 +1,8 @@
+(undo-tree-save-format-version . 1)
+"371f21e3699988a1f63e36fd1a5ef5c5109f9022"
+[nil nil nil nil (25963 6933 510223 968000) 0 nil]
+([nil nil ((nil rear-nonsticky nil 68 . 69) (nil fontified nil 1 . 69) (1 . 69) (t . -1)) nil (25963 6933 510217 574000) 0 nil])
+([nil nil ((69 . 70)) nil (25963 6933 510196 827000) 0 nil])
+([nil nil ((#("true" 0 4 (fontified t)) . 61) (undo-tree-id9 . -3) (undo-tree-id10 . -4) (t 25963 6933 520647 16000)) nil (25963 6939 372552 635000) 0 nil])
+([nil current ((62 . 66) (#("l" 0 1 (fontified t)) . -62) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) 63 (60 . 63)) nil (25963 6939 372538 327000) 0 nil])
+nil

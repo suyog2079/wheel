@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# get a unique uuid
+uuid=$(uuidgen | cut -d'-' -f1)
+
+mkdir ./my_posts/$uuid
+
+cp ./post_class/* ./my_posts/$uuid/
+
+
+## make the user edit the posts
+
+vim ./my_posts/$uuid/_index.md
+
+
+## now make a torrent of it
+
+echo "now make a torrent of it"
+
